@@ -1,0 +1,11 @@
+IP ADDRESS: 13.126.116.138
+
+User: ec2-user
+
+
+
+
+ssh -i "Devops.pem" ubuntu@ec2-3-109-59-88.ap-south-1.compute.amazonaws.com             S2
+
+
+ssh -i "Devops.pem" ubuntu@ec2-15-206-205-251.ap-south-1.compute.amazonaws.com
